@@ -41,7 +41,7 @@ export const Projects = () => {
                         ))}
                     </div>
                     <div className="flex justify-between items-center ">
-                        <a href="#" className="text-blue-600 hover:text-blue-300 transition-colors my-14">View Project</a>
+                        <a href="https://meban27.github.io/YCC-website/" className="text-blue-600 hover:text-blue-300 transition-colors my-14">View Project</a>
                     </div>
 
                     </div>
